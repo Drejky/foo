@@ -1,4 +1,7 @@
 body {
-    width: 100%;
-    background-color: blueviolet;
+    background: url("https://nanatsu-no-taizai.fandom.com/wiki/Kay?file=Kay_taunting_Arthur.png")
+        fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000;
 }
